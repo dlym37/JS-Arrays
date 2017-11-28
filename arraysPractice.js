@@ -1,6 +1,6 @@
 //Once you complete a problem, open up Chrome and check the answer in the console.
 
-
+//This is proof that I, Daniel Lym, have come in here and done stuff
 var arr = [10,20,30];
 //Create a function named 'first' that is given 'arr' as the argument and  returns the first item in the given array.
 
